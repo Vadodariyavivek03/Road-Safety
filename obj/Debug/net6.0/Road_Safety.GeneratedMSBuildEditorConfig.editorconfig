@@ -1,0 +1,93 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Road_Safety
+build_property.RootNamespace = Road_Safety
+build_property.ProjectDir = C:\Users\Admin\OneDrive\Desktop\Road-Safety\Road_Safety\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Admin\OneDrive\Desktop\Road-Safety\Road_Safety
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Admin/OneDrive/Desktop/Road-Safety/Road_Safety/Views/CAU_Cause/CAU_CauseList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ0FVX0NhdXNlXENBVV9DYXVzZUxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/OneDrive/Desktop/Road-Safety/Road_Safety/Views/Home/AboutUs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dFVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/OneDrive/Desktop/Road-Safety/Road_Safety/Views/Home/Emergency.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFbWVyZ2VuY3kuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/OneDrive/Desktop/Road-Safety/Road_Safety/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/OneDrive/Desktop/Road-Safety/Road_Safety/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/OneDrive/Desktop/Road-Safety/Road_Safety/Views/Home/RulesAndRaglutaion.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSdWxlc0FuZFJhZ2x1dGFpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/OneDrive/Desktop/Road-Safety/Road_Safety/Views/Home/Table.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUYWJsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/OneDrive/Desktop/Road-Safety/Road_Safety/Views/LOC_Location/LOC_LocationList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTE9DX0xvY2F0aW9uXExPQ19Mb2NhdGlvbkxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/OneDrive/Desktop/Road-Safety/Road_Safety/Views/MST_Accident/MST_AccidentList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTVNUX0FjY2lkZW50XE1TVF9BY2NpZGVudExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/OneDrive/Desktop/Road-Safety/Road_Safety/Views/PER_Hospital/PER_HospitalList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUEVSX0hvc3BpdGFsXFBFUl9Ib3NwaXRhbExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/OneDrive/Desktop/Road-Safety/Road_Safety/Views/PER_Person/PER_PersonList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUEVSX1BlcnNvblxQRVJfUGVyc29uTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/OneDrive/Desktop/Road-Safety/Road_Safety/Views/PER_Vehicle/PER_VehicleList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUEVSX1ZlaGljbGVcUEVSX1ZlaGljbGVMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/OneDrive/Desktop/Road-Safety/Road_Safety/Views/SER_Severity/SER_SeverityList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU0VSX1NldmVyaXR5XFNFUl9TZXZlcml0eUxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/OneDrive/Desktop/Road-Safety/Road_Safety/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/OneDrive/Desktop/Road-Safety/Road_Safety/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/OneDrive/Desktop/Road-Safety/Road_Safety/Views/WET_Weather/WET_WeatherList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV0VUX1dlYXRoZXJcV0VUX1dlYXRoZXJMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/OneDrive/Desktop/Road-Safety/Road_Safety/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/OneDrive/Desktop/Road-Safety/Road_Safety/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/OneDrive/Desktop/Road-Safety/Road_Safety/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-q8m81l3ctd

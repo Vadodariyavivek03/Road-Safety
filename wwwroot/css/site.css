@@ -1,0 +1,336 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+.logoclass
+{
+    height:60px;
+}
+.dropdown-toggle::after {
+    display: none;
+}
+
+.text-decoration-none {
+    text-decoration: none !important;
+}
+/* Font Awesome Icons have variable width. Added fixed width to fix that.*/
+.icon-width {
+    width: 2rem;
+}
+body {
+    height: 2000px;
+}
+
+.navbar .navbar-brand {
+    font-size: 30px;
+}
+
+.navbar .nav-item {
+    padding: 10px 20px;
+}
+
+.navbar .nav-link {
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+.fa-bars {
+    color: #007bff;
+    font-size: 30px;
+}
+.navbar{
+    background-color:#D35C5C !important;
+}
+.navbar .nav-link{
+    color:white !important;
+    font-weight:700 !important;
+}
+.car
+{
+    margin-top:30px;
+}
+.c-item {
+    height: 800px;
+}
+
+.c-img {
+    height: 100%;
+    object-fit: cover;
+}
+.cr1{
+    margin-top:30px;
+}
+.cp1 {
+    background-color: #CF9696 !important;
+    height: 300px;
+    font-size:30px;
+}
+.cp2 {
+    background-color: #F48484 !important;
+    height: 300px;
+    font-size: 30px;
+}
+.cp3 {
+    background-color: #FF597B !important;
+    height: 300px;
+    font-size: 30px;
+}
+.death{
+    margin:25px;
+    color:white !important;
+    font-weight:500;
+}
+.deathno{
+    margin:25px;
+    color:white !important;
+    font-weight:700;
+    font-size:45px;
+}
+.accident {
+    margin: 25px;
+    color: white !important;
+    font-weight: 500;
+}
+.accidentno {
+    margin: 25px;
+    color: white !important;
+    font-weight: 700;
+    font-size: 45px;
+}
+.damage {
+    margin: 25px;
+    color: white !important;
+    font-weight: 500;
+}
+.damageno {
+    margin: 25px;
+    color: white !important;
+    font-weight: 700;
+    font-size: 45px;
+}
+.cardimageclass{
+    height:300px;
+}
+.card-title{
+    font-size:30px;
+    font-weight:600;
+    padding-bottom:30px;
+}
+.card{
+    height:100%;
+}
+.btnclr{
+    background-color:#4258A7;
+}
+.main-footer {
+    padding: 70px 0;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #19302E;
+}
+
+    .main-footer ul {
+        list-style: none;
+    }
+
+    .main-footer h1 {
+        font-size: 22px;
+        line-height: 117%;
+        color: #ffffff;
+        margin-bottom: 10px;
+        font-weight: 500;
+    }
+
+    .main-footer h2 {
+        color: #ffffff;
+        font-weight: 500;
+    }
+
+    .main-footer ul li a {
+        color: #ffffffcc;
+        text-decoration: none;
+    }
+
+footer {
+    background-color: #19302E;
+    border-top: 1px solid #6EB981;
+    font-size: 17px;
+    padding: 15px 5px;
+    color: #ffffff;
+    text-align: center;
+}
+
+    footer a {
+        text-decoration: none;
+        color: #ffffff;
+    }
+
+.logoinfo p {
+    color: #6EB981;
+    font-size: 17px;
+    margin-top: 5px;
+}
+
+.contact-details {
+    margin-top: 20px;
+}
+
+    .contact-details li {
+        list-style: none;
+        margin: 10px 0;
+    }
+
+        .contact-details li a {
+            text-decoration: none;
+            color: #f1f1f1;
+        }
+
+    .contact-details .fa {
+        color: #f1f1f1;
+        margin-right: 10px;
+    }
+
+.sociallogos {
+    padding: 20px 0;
+}
+
+    .sociallogos .logobox a {
+        padding: 0 10px;
+        text-decoration: none;
+        color: #ffffff;
+        font-size: 22px;
+    }
+
+.com ul li {
+    padding: 5px 0;
+}
+
+@media only screen and (max-width: 749px) {
+    .main-footer {
+        padding: 20px;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
+
+    .info {
+        padding: 20px 0;
+    }
+}
+
+@media (max-width: 480px) {
+    .main-footer {
+        grid-template-columns: 1fr;
+    }
+
+    .sociallogos {
+        padding: 20px 0;
+    }
+
+    .com {
+        padding: 20px 0;
+    }
+}
+.ca{
+    text-decoration:none !important;
+    color:inherit !important;
+}
+.image1 {
+    height: 500px;
+    width: 100%;
+}
+
+.box11 {
+    background-color: #f2f2f2;
+    color: #333;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 30px;
+    padding: 60px;
+}
+
+.box11-1 {
+    background-color: #EEEEEE;
+}
+
+.box11-2 {
+    background-color: #EEEEEE;
+}
+
+.box11-3 {
+    background-color: #EEEEEE;
+}
+
+.container1 {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 30px;
+}
+
+.b11 {
+    color: #EB455F;
+}
+
+.p11 {
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.x1 {
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.aa11 {
+    background-color: #F5EAEA;
+    padding: 40px;
+    border-radius: 15px;
+}
+/*.card {
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+}*/
+#footer{
+    margin-top:auto;
+}
+.card12 {
+    height: 500px;
+    background-color: aliceblue;
+}
+
+.col12{
+    border: 2px solid grey;
+    border-radius: 20px;
+}
+
+.heading {
+    margin-top: 30px;
+    background-color: #D35C5C;
+    height: 100px;
+    display: flex;
+    align-items: center;
+}
+
+.hno {
+    margin-left: 15px;
+    font-weight: 600;
+    color: white;
+}
+.loc1{
+    margin-top:30px;
+    margin-bottom:30px;
+}
